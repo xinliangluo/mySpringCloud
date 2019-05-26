@@ -1,0 +1,5 @@
+test:
+  content: this is spring cloud config from github resource edit 5555777777788888666666
+  
+server: 
+  port:  6002
