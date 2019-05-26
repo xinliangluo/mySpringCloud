@@ -1,0 +1,5 @@
+test:
+  content: this is spring cloud config 
+  
+server: 
+port: 6008
